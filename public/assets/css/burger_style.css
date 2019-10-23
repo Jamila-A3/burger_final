@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+
+}
+
+
+
+.burger-img {
+  width: 200px;
+  height: 200px;
+}
+
+.burger-list {
+  font-size: 22px;
+  border: 2px groove black;
+}
+
+.burger-list-container {
+  padding: 20px;
+}
+
+label {
+  font-size: 32px;
+}
+
+.devoured-burgers {
+  color: aqua;
+  text-decoration-line: line-through;
+}
